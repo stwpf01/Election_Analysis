@@ -54,4 +54,4 @@ What this should show is the a list of the counties with their percentage of the
 
 ## Election-Audit Summary
 
-As long as the right information is provided to parse through, this script used to determine the outcome of this election can be used for any election. Modifications would need to be made if the information is not provided in the exact order, such as Counties being listed in the third row[2] and not the second row[1] or the need to see two decimal points beyond the ones integer (`:.2f` instead of `:.1f` in the `f-string` format) , but it should give the same results. 
+As long as the right information is provided to parse through, this script used to determine the outcome of this election can be used for any election. Modifications would need to be made if the information is not provided in the exact order, such as Counties being listed in the third row`[2]` and not the second row`[1]` or the need to see two decimal points beyond the ones integer (`:.2f` instead of `:.1f` in the `f-string` format) , but it should give the same results. 
